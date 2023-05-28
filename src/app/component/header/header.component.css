@@ -1,0 +1,13 @@
+.logo-img{
+    width: 30px; /* ajustați dimensiunile la necesitate */
+    height: 30px;
+    position: absolute;
+    top: 10px; /* ajustați poziția în funcție de necesități */
+    left: 10px;
+}
+
+.navbar-nav{
+    margin-right: 20px;
+    margin-left: 20px;
+   
+}

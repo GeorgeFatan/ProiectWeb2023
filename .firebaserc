@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "bazadedate-c0b89": {
+      "hosting": {
+        "crud": [
+          "bazadedate-c0b89"
+        ]
+      }
+    },
+    "proiect-angular-firestore": {
+      "hosting": {
+        "crud": [
+          "proiect-angular-firestore"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "proiect-angular-firestore"
+  }
+}
